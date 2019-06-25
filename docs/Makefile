@@ -2,9 +2,9 @@
 #
 
 # You can set these variables from the command line.
-SPHINXOPTS    =
+SPHINXOPTS    = -n -v
 SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = pygdf
+SPHINXPROJ    = cudf
 SOURCEDIR     = source
 BUILDDIR      = build
 
